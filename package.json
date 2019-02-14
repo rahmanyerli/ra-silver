@@ -2,7 +2,7 @@
 	"name": "ra-silver",
 	"displayName": "Ra Silver",
 	"description": "Here is the best theme for your eye care!",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"engines": {
 		"vscode": "^1.30.0"
 	},
