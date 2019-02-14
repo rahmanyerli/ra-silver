@@ -2,7 +2,7 @@
 	"name": "ra-silver",
 	"displayName": "Ra Silver",
 	"description": "Here is the best theme for your eye care!",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"engines": {
 		"vscode": "^1.30.0"
 	},
@@ -28,6 +28,10 @@
 		"url": "https://github.com/rahmanyerli/ra-silver"
 	},
 	"icon": "images/ra.png",
+	"galleryBanner": {
+		"color": "#303030",
+		"theme": "light"
+	},
 	"keywords": [
 		"ra silver",
 		"rasilver",

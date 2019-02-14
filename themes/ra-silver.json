@@ -4,18 +4,21 @@
 	"colors": {
 		"editor.background": "#D4D9DE",
 		"editor.foreground": "#161A1D",
-		"editorLineNumber.foreground": "#888888",
 		"editor.lineHighlightBorder": "#00000011",
+		"editorLineNumber.foreground": "#7E8C9B",
+		"editorLineNumber.activeForeground": "#434D56",
+		"editorIndentGuide.background": "#00000010",
+		"editorIndentGuide.activeBackground": "#00000020",
 		"activityBar.background": "#708090",
 		"activityBar.foreground": "#161A1D",
-		"activityBarBadge.background": "#009988",
-		"activityBar.dropBackground": "#009988",
+		"activityBarBadge.background": "#3F51B5",
+		"activityBar.dropBackground": "#3F51B5",
 		"sideBar.background": "#C6CCD2",
 		"sideBar.foreground": "#21262B",
 		"sideBarSectionHeader.background": "#708090",
 		"sideBarSectionHeader.foreground": "#21262B",
 		"statusBar.background": "#708090",
-		"statusBar.debuggingBackground": "#009988",
+		"statusBar.debuggingBackground": "#3F51B5",
 		"list.activeSelectionBackground": "#9BA6B1",
 		"list.activeSelectionForeground": "#F1F2F4",
 		"list.inactiveSelectionBackground": "#B7BFC7",
@@ -60,7 +63,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#888888"
+				"foreground": "#7E8C9B"
 			}
 		},
 		{
@@ -170,13 +173,13 @@
 		{
 			"scope": "beginning.punctuation.definition.quote.markdown",
 			"settings": {
-				"foreground": "#888888"
+				"foreground": "#7E8C9B"
 			}
 		},
 		{
 			"scope": "beginning.punctuation.definition.list.markdown",
 			"settings": {
-				"foreground": "#888888"
+				"foreground": "#7E8C9B"
 			}
 		},
 		{
@@ -541,7 +544,7 @@
 		{
 			"scope": "token.info-token",
 			"settings": {
-				"foreground": "#888888"
+				"foreground": "#7E8C9B"
 			}
 		},
 		{
